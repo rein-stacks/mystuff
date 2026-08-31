@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "wrong gems?"
+---
+
+# 29 August 2026
+
+Today's mission: breakthrough the "wrong gems version" roadblock.
+
+## Todays plan
+1. Need to install CLT (Command Line Tools)
+2. CLT enables Homebrew to update Ruby
+3. Updated Ruby version will match the gems required by my Jeykll.md
+4. Jekyll.md should build and I should have a website.. 
+
+## Things I tried
+- Ran: `xcode-select --install` in the terminal. 
+	- Result: Still insufficient space.
+- Downloaded direct from Apple developer tools at *developer.apple.com/download/all*. 
+	- Result: Forgot to match the download with my Macbook's software version.
+	- My Macbook (2019) is stuck on Sequoia, so I need a legacy version.
+	- At this point I had already stumbled upon the **Codespaces** solution, so I my thread stopped here. 
+
+## Codespaces
+A workaround to my issue was using Codespaces. 
+
+Codespaces is: "a **cloud-hosted development environment** that allows you to write, run, and debug code directly in your browser or through a local IDE". 
+
+So pretty much cloud-computing specifically for GitHub. Sweet!
+
+Don't remember much of this process to be honest, got lost in the excitement of progress. But it worked! I have the site.
+
+## What's Next? 
+- Figure out how to get these logs (which currently only live in Obsidian) onto the site.
