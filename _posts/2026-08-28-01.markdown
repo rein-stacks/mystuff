@@ -3,8 +3,7 @@ layout: post
 title: "My First Post!"
 ---
 
-<h1> 28 August 2026 <h1> 
-
+# 28 August 2026 
 My previous attempt at building a website was asking Claude to do it. Original, I know, but I was curious and I thought Claude could remove the barrier to entry and kickstart the blog. I thought, "I'll never start if it's too hard". 
 
 I knew what I wanted, Claude knew how to do it, and it automatically did it for me. In no time flat I had a website. That was easy. I didn't even have to think that hard. Time to start, right? 
