@@ -1,5 +1,5 @@
 ---
 layout: page
-title: Music
+title: music
 permalink: /music/
 ---
